@@ -4,7 +4,7 @@
 A simple web-based sushi roll shop simulation built with HTML, CSS, and JavaScript. Browse a catalog of rolls, adjust quantities, add items to your cart, and see the total cost—all with a responsive design powered by Bootstrap.
 
 ## Live Demo
-Check out the live version here: [Sushi Roll Shop](https://digitalgl.github.io/rolli-shop-start-project/)
+Check out the live version here: [Sushi Roll Shop](https://digitalgl.github.io/Sushi-Roll-Shop/)
 
 ## Features
 - 🍣 Catalog of sushi rolls with images, weights, and prices.
